@@ -1,2 +1,2 @@
-# regresion_lineal
-ML - Regresion Lineal
+# Regresion lineal
+Machine learning
